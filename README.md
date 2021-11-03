@@ -26,7 +26,7 @@
 
 ### Come say Hi :
 
-- [PortFolio](https://hendrickl.netlify.app/)
+- [![PortFolio](https://hendrickl.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/hendricklincertin/)
 - [Gmail](mailto:hendrickl.dev@gmail.com)
 - [Twitter](https://twitter.com/hendrickl9)
