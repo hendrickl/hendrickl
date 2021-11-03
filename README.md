@@ -11,6 +11,9 @@
 
 ### Languages and Technologies :
 
+![JavaScript](./icons/javascript.svg)
+<a href="https://www.freepik.com" title="Freepik"></a><a href="https://www.flaticon.com/" title="Flaticon"></a>
+
 ### Come say Hi :
 
 - [PortFolio](https://hendrickl.netlify.app/)
