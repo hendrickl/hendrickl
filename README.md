@@ -11,8 +11,7 @@
 
 ### Languages and Technologies :
 
-![JavaScript](./icons/javascript.svg)
-<a href="https://www.freepik.com" title="Freepik"></a><a href="https://www.flaticon.com/" title="Flaticon"></a>
+![JavaScript](./icons/javascript.png)
 
 ### Come say Hi :
 
