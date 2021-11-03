@@ -2,7 +2,8 @@
 
 ### I'm a junior Front-End Developer.
 
-- 🌱 I’m currently learning **JavaScript** and **Blockchain technologies**.
+- 🌱 I’m currently perfectioning **JavaScript skills**.
+- 🌱🌱 And learning **Blockchain technologies**.
 - 👯 I’m looking to collaborate with other front-end lovers.
 - 🤔 I’m looking for help with my internship research.
 - 🥅 2021 Goals: Find my first professional dev team !
@@ -16,7 +17,7 @@
 ![html](./icons/html.png)
 ![css](./icons/css.png)
 ![sass](./icons/sass.png)
-![react](./icons/react_icon.png)
+![react](./icons/react.png)
 ![typescript](./icons/typescript.png)
 ![bootstrap](./icons/bootstrap.png)
 ![git](./icons/git.png)
