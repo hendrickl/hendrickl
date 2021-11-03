@@ -12,6 +12,8 @@
 ### Languages and Technologies :
 
 ![JavaScript](./icons/javascript.png)
+![NodeJS](./icons/nodejs.png)
+![html](./icons/html-5.png)
 
 ### Come say Hi :
 
