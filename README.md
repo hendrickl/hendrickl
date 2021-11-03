@@ -11,9 +11,18 @@
 
 ### Languages and Technologies :
 
-![JavaScript](./icons/javascript.png)
-![NodeJS](./icons/nodejs.png)
-![html](./icons/html-5.png)
+![javascript](./icons/javascript.png)
+![nodejs](./icons/nodejs.png)
+![html](./icons/html.png)
+![css](./icons/css.png)
+![sass](./icons/sass.png)
+![react](./icons/react.png)
+![typescript](./icons/typescript.png)
+![bootstrap](./icons/bootstrap.png)
+![git](./icons/git.png)
+![photoshop](./icons/adobe-photoshop.png)
+![illustrator](./icons/illustrator.png)
+![visual studio code](./icons/visual-studio.png)
 
 ### Come say Hi :
 
