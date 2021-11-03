@@ -16,3 +16,4 @@
 - [PortFolio](https://hendrickl.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/hendricklincertin/)
 - [Gmail](mailto:hendrickl.dev@gmail.com)
+- [Twitter](https://twitter.com/hendrickl9)
