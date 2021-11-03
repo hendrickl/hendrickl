@@ -1,7 +1,5 @@
 ### Hi, I'm Hendrick 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hendrickl.netlify.app/)
-
 ### I'm a junior Front-End Developer.
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
