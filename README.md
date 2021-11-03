@@ -16,7 +16,7 @@
 ![html](./icons/html.png)
 ![css](./icons/css.png)
 ![sass](./icons/sass.png)
-![react](./icons/react.png)
+![react](./icons/react_icon.png)
 ![typescript](./icons/typescript.png)
 ![bootstrap](./icons/bootstrap.png)
 ![git](./icons/git.png)
@@ -27,6 +27,6 @@
 ### Come say Hi :
 
 - [![PortFolio](./icons/portfolio.png)](https://hendrickl.netlify.app/)
-- [LinkedIn](https://www.linkedin.com/in/hendricklincertin/)
-- [Gmail](mailto:hendrickl.dev@gmail.com)
-- [Twitter](https://twitter.com/hendrickl9)
+- [![LinkedIn](./icons/linkedin.png)](https://www.linkedin.com/in/hendricklincertin/)
+- [![Gmail](./icons/gmail.png)](mailto:hendrickl.dev@gmail.com)
+- [![Twitter](./icons/twitter.png)](https://twitter.com/hendrickl9)
