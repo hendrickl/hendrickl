@@ -2,7 +2,7 @@
 
 ### I'm a junior Front-End Developer.
 
-- 🌱 I’m currently perfectioning **JavaScript skills**.
+- 🌱 I’m currently perfectioning my **JavaScript skills**.
 - 🌱🌱 And learning **Blockchain technologies**.
 - 👯 I’m looking to collaborate with other front-end lovers.
 - 🤔 I’m looking for help with my internship research.
