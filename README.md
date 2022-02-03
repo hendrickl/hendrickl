@@ -1,6 +1,6 @@
 ### Hi, I'm Hendrick 👋
 
-### I'm a junior Front-End Developer.
+### I'm a Front-End Developer.
 
 - 🌱 I’m currently perfectioning my **JavaScript skills**.
 - 👯 I’m looking to collaborate with other front-end lovers.
