@@ -2,9 +2,9 @@
 
 ### I'm a Front-End Developer.
 
-- 🌱 I’m currently perfectioning my **JavaScript skills**.
+- 🌱 I’m currently perfectioning my **JavaScript skills by learning Angular**.
 - 👯 I’m looking to collaborate with other front-end lovers.
-- 🥅 2022 Goals: Adopt Angular !
+- 🥅 2022 Goals: Learn more !
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be a Designer in the fashion industry some moons ago.
 
