@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other front-end lovers.
 - 🥅 2022 Goals: Learn more !
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to be a Designer in the fashion industry some moons ago.
+- ⚡ Fun fact: I used to be a Designer some moons ago.
 
 ### Languages and Technologies :
 
