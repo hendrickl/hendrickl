@@ -3,7 +3,7 @@
 ### I'm a javascript Developer.
 
 - 🌱 I’m currently perfectioning my **JavaScript skills by learning Angular**.
-- 👯 I’m looking to collaborate with other front-end lovers.
+- 👯 I’m looking to collaborate with other tech lovers.
 - 🥅 2022 Goals: Learn more !
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be a Designer some moons ago.
