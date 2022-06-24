@@ -1,6 +1,6 @@
 ### Hi, I'm Hendrick 👋
 
-### I'm a Front-End Developer.
+### I'm a javascript Developer.
 
 - 🌱 I’m currently perfectioning my **JavaScript skills by learning Angular**.
 - 👯 I’m looking to collaborate with other front-end lovers.
