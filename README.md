@@ -16,6 +16,7 @@
 ![css](./icons/css.png)
 ![sass](./icons/sass.png)
 ![react](./icons/react.png)
+![angular](./icons/angular.png)
 ![typescript](./icons/typescript.png)
 ![bootstrap](./icons/bootstrap.png)
 ![git](./icons/git.png)
