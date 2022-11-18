@@ -2,7 +2,7 @@
 
 ### I'm a javascript Developer.
 
-- 🌱 I’m currently learning **3D real time, VR, AR and perfionning my C# skills**.
+- 🌱 I’m currently learning **3D real time, VR, AR and perfectioning my C# skills**.
 - 👯 I’m looking to collaborate with other tech lovers.
 - 🥅 2022 Goals: Learn more !
 - 😄 Pronouns: He/Him
