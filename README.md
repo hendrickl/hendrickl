@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **3D real time, VR, AR on Unity engine and perfectioning my C# skills**.
 - 👯 I’m looking to collaborate with other tech lovers.
-- 🥅 2022 Goals: Learn more !
+- 🥅 2023 Goals: Learn more !
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be a Designer some moons ago.
 
