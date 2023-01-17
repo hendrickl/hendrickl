@@ -1,6 +1,6 @@
 ### Hi, I'm Hendrick 👋
 
-### I'm a Javascript Developer.
+### I'm a XR Unity3D Developer.
 
 - 🌱 I’m currently learning **3D real time, VR, AR on Unity engine and perfectioning my C# skills**.
 - 👯 I’m looking to collaborate with other tech lovers.
