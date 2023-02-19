@@ -7,7 +7,7 @@
 - 🥅 2023 Goals: Learn more !
 - ⚡ Fun fact: I used to be a Designer some moons ago.
 
-### Languages and Technologies :
+### Languages & Technologies :
 
 ![javascript](./icons/javascript.png)
 ![nodejs](./icons/nodejs.png)
