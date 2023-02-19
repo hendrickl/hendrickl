@@ -25,5 +25,4 @@
 ### Come say Hi :
 
 - [![LinkedIn](./icons/linkedin.png)](https://www.linkedin.com/in/hendricklincertin/)
-- [![Gmail](./icons/gmail.png)](mailto:hendrickl.dev@gmail.com)
-- [![Twitter](./icons/twitter.png)](https://twitter.com/hendrickl9)
+- [![Portfolio](./icons/portfolio.png)](https://hendrickl.squarespace.com/)
