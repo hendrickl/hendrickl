@@ -10,7 +10,7 @@
 
 ### Languages and Technologies :
 
-![Logo C#](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/64px-C_Sharp_logo.svg.png)
+![Logo C#](https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg)
 ![javascript](./icons/javascript.png)
 ![nodejs](./icons/nodejs.png)
 ![html](./icons/html.png)
