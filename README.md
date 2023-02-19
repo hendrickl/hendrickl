@@ -10,15 +10,14 @@
 
 ### Languages and Technologies :
 
+![Logo C#](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/64px-C_Sharp_logo.svg.png)
 ![javascript](./icons/javascript.png)
 ![nodejs](./icons/nodejs.png)
 ![html](./icons/html.png)
 ![css](./icons/css.png)
-![sass](./icons/sass.png)
 ![angular](./icons/angular.png)
 ![react](./icons/react.png)
 ![typescript](./icons/typescript.png)
-![bootstrap](./icons/bootstrap.png)
 ![git](./icons/git.png)
 ![photoshop](./icons/adobe-photoshop.png)
 ![illustrator](./icons/illustrator.png)
