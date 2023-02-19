@@ -9,8 +9,6 @@
 
 ### Languages and Technologies :
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-![Logo C#](https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg)
 ![javascript](./icons/javascript.png)
 ![nodejs](./icons/nodejs.png)
 ![html](./icons/html.png)
@@ -22,6 +20,7 @@
 ![photoshop](./icons/adobe-photoshop.png)
 ![illustrator](./icons/illustrator.png)
 ![visual studio code](./icons/visual-studio.png)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 
 ### Come say Hi :
 
