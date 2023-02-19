@@ -22,7 +22,7 @@
 ![visual studio code](./icons/visual-studio.png)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 
-### Come say Hi :
+### LinkedIn & Portfolio :
 
 - [![LinkedIn](./icons/linkedin.png)](https://www.linkedin.com/in/hendricklincertin/)
 - [![Portfolio](./icons/portfolio.png)](https://hendrickl.squarespace.com/)
