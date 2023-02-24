@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I used to be a Designer some moons ago.
 
 ### Languages & Technologies :
-
+-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 ![javascript](./icons/javascript.png)
 ![nodejs](./icons/nodejs.png)
 ![html](./icons/html.png)
@@ -20,7 +20,6 @@
 ![photoshop](./icons/adobe-photoshop.png)
 ![illustrator](./icons/illustrator.png)
 ![visual studio code](./icons/visual-studio.png)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 
 ### LinkedIn & Portfolio :
 
