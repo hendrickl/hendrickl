@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **3D real time, VR, AR on Unity engine and perfectioning my C# skills**.
 - 👯 I’m looking to collaborate with other tech lovers.
-- 🥅 2024 Goals: Learn more !
+- 🥅 2025 Goals: Learn more !
 - ⚡ Fun fact: I used to be a Designer some moons ago.
 
 ### Languages & Technologies :
