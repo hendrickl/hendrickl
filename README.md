@@ -2,12 +2,11 @@
 
 ### I'm a XR Developer.
 
-- 🕶️ I’m currently building VR/AR experiences with Unity, C# and OpenUSD.
-- 🎓 Next step: **Master in Immersive Systems & Virtual Reality at EPITECH.
+- 🕶️ I’m currently building VR AR experiences.
+- 🎓 Next step: Master in Immersive Systems & Virtual Reality at EPITECH.
 - 🌱 Still sharpening my skills every day on 3D real time, VR & AR.
 - 👯 I’m looking to collaborate with other tech lovers.
 - 🥅 2026 Goals: Keep shipping immersive stuff and learn more !
-- ⚡ Fun fact: I used to be a Designer some moons ago.
 
 ### Languages & Technologies :
 -<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
